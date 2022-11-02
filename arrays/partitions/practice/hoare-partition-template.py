@@ -16,7 +16,7 @@
 # Conclusion: No me gusta porque depende muchos de detalles, como por ejemplo "C"
 # Los corner cases son parte importante de que funcione bien :(
 # 
-#
+
 def hoare(list):
     return 0
 
